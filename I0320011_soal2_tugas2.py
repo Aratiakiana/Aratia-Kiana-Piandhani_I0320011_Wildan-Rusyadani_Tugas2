@@ -17,7 +17,7 @@ print("Saya memiliki jenis kelamin", jenisKelamin, "dan beragama", str(agama)+".
 tempatLahir = "Surakarta"
 tanggalLahir = int(5*4+6)
 bulanLahir = "Desember"
-tahunLahir = int(200*10+2)
+tahunLahir = int(20*100+2)
 umur = int(30/2+3)
 print("Saya lahir di" ,tempatLahir, "tanggal", tanggalLahir, bulanLahir, tahunLahir)
 print("Sekarang saya berumur", umur, "tahun.")
