@@ -17,10 +17,10 @@ print("Luas permukaan kubus adalah", luas_permukaan,"satuan")
 
 print("Menghitung konversi suhu dari celcius ke fahrenheit")
 celcius = float(input("Masukkan suhu celcius"))
-konversi =(((9/5)*celcius)+32)
-print("Konversi suhu dari celcius ke fahrenheit adalah", konversi, "derajat")
+rumus_konversi =(((9/5)*celcius)+32)
+print("Konversi suhu dari celcius ke fahrenheit adalah", rumus_konversi, "derajat")
 
 print("Menghitung konversi suhu reamur ke kelvin")
 reamur = float(input("Masukkan suhu reamur"))
-konversi = ((5/4)*reamur)+273
-print("Konversi suhu dari reamur ke kelvin adalah", konversi, "derajat")
+rumus_konversi = ((5/4)*reamur)+273
+print("Konversi suhu dari reamur ke kelvin adalah", rumus_konversi, "derajat")
